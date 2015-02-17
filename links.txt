@@ -1,0 +1,100 @@
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction
+
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+
+https://docs.webplatform.org/wiki/css
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+http://jquery.com/
+
+https://developer.chrome.com/devtools/docs/console
+
+https://developer.mozilla.org/en-US/docs/Tools/Browser_Console
+
+https://msdn.microsoft.com/en-us/library/ie/bg182326(v=vs.85).aspx#The_Console_tool__CTRL___2_
+
+https://developer.apple.com/library/mac/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/GettingStarted/GettingStarted.html
+
+-document.URL returns URL of document
+
+-$("#main").append("Daniel") --> jquery to select main and add to the end what is inside the parentheses; can also be HTML
+http://api.jquery.com/append/
+
+-[string].replace([old], [new]) --> searches a string for a portion "old" and replaces it with "new" <-- simple version; look at documentation for more
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace
+
+String methods:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
+slice()
+
+Truthy and falsy values:
+http://opensourcehacker.com/2012/10/17/true-lies-and-falsy-values-in-python-and-javascript/
+http://www.sitepoint.com/javascript-truthy-falsy/
+Truthy: true, non-zero numbers, strings, objects, arrays, functions
+Falsy: false, 0, "" (empty string), undefined, null, NaN
+
+Arrays:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+push(); pop(); split(); join();
+
+http://stackoverflow.com/questions/20987485/python-dictionaries-vs-javascript-objects
+There are no classes in javascript. Only objects. There are ways to mimic classes but they do not actually exist.
+
+http://www.dev-archive.net/articles/js-dot-notation/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function
+
+JSON:
+For python --> https://docs.python.org/2/library/json.html
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON
+http://json.org/
+http://www.copterlabs.com/blog/json-what-it-is-how-it-works-how-to-use-it/
+http://jsonlint.com/
+
+http://en.wikipedia.org/wiki/Ajax_(programming)
+
+https://developer.mozilla.org/en-US/docs/Web/API/Element
+
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement.style
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp
+
+http://www.w3schools.com/jsref/jsref_replace.asp
+
+http://www.w3schools.com/jsref/jsref_obj_regexp.asp
+
+http://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references#Character_entity_references_in_HTML
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness --> Generally avoid ==
+
+http://www.w3schools.com/jquery/sel_last.asp
+
+http://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/
+
+http://api.jquery.com/category/events/event-object/
+
+http://helephant.com/2008/08/19/functions-are-first-class-objects-in-javascript/
+
+https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScript
+
+http://en.wikipedia.org/wiki/Anonymous_function#JavaScript
+
+http://d3js.org/
+
+https://developers.google.com/maps/documentation/javascript/tutorial
+
+https://github.com/search?utf8=%E2%9C%93&q=frontend-nanodegree-resume
+
+http://en.wikipedia.org/wiki/Scope_(computer_science)
+
+http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html
+
+https://developers.google.com/speed/docs/insights/v1/getting_started
